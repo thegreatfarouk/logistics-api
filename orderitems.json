@@ -1,0 +1,142 @@
+[
+  {
+    "customerID": "1",
+    "skuCode": "SKU-C300",
+    "description": "Copper Wire - 2.5mm",
+    "uom": "kg",
+    "unitPrice": 8.5
+  },
+  {
+    "customerID": "1",
+    "skuCode": "SKU-B201",
+    "description": "Aluminum Rods - 10mm",
+    "uom": "pieces",
+    "unitPrice": 12
+  },
+  {
+    "customerID": "1",
+    "skuCode": "SKU-A101",
+    "description": "Steel Coils - Hot Rolled",
+    "uom": "tons",
+    "unitPrice": 720
+  },
+  {
+    "customerID": "1",
+    "skuCode": "SKU-E501",
+    "description": "Industrial Lubricant - Heavy Duty",
+    "uom": "barrels",
+    "unitPrice": 180
+  },
+  {
+    "customerID": "1",
+    "skuCode": "SKU-E500",
+    "description": "Industrial Chemicals - Solvent A",
+    "uom": "liters",
+    "unitPrice": 25
+  },
+  {
+    "customerID": "1",
+    "skuCode": "SKU-D400",
+    "description": "Cement - Portland Type I",
+    "uom": "bags",
+    "unitPrice": 12
+  },
+  {
+    "customerID": "1",
+    "skuCode": "SKU-C301",
+    "description": "Copper Pipes - 25mm",
+    "uom": "meters",
+    "unitPrice": 15
+  },
+  {
+    "customerID": "2",
+    "skuCode": "SKU-F101",
+    "description": "Frozen Mixed Vegetables",
+    "uom": "cartons",
+    "unitPrice": 48
+  },
+  {
+    "customerID": "2",
+    "skuCode": "SKU-F102",
+    "description": "Tomato Paste - 800g",
+    "uom": "cases",
+    "unitPrice": 61.5
+  },
+  {
+    "customerID": "2",
+    "skuCode": "SKU-F103",
+    "description": "Sunflower Oil - 5L",
+    "uom": "cases",
+    "unitPrice": 84
+  },
+  {
+    "customerID": "3",
+    "skuCode": "SKU-T201",
+    "description": "Cotton Fabric Roll - 180 GSM",
+    "uom": "rolls",
+    "unitPrice": 125.5
+  },
+  {
+    "customerID": "3",
+    "skuCode": "SKU-T202",
+    "description": "Polyester Fabric Roll",
+    "uom": "rolls",
+    "unitPrice": 143
+  },
+  {
+    "customerID": "4",
+    "skuCode": "SKU-R301",
+    "description": "LED Smart TV - 55 Inch",
+    "uom": "pieces",
+    "unitPrice": 480
+  },
+  {
+    "customerID": "4",
+    "skuCode": "SKU-R302",
+    "description": "Washing Machine - 8kg",
+    "uom": "pieces",
+    "unitPrice": 395
+  },
+  {
+    "customerID": "5",
+    "skuCode": "SKU-H401",
+    "description": "Hydraulic Oil ISO VG46",
+    "uom": "drums",
+    "unitPrice": 210
+  },
+  {
+    "customerID": "5",
+    "skuCode": "SKU-H402",
+    "description": "Grease EP2",
+    "uom": "buckets",
+    "unitPrice": 95
+  },
+  {
+    "customerID": "6",
+    "skuCode": "SKU-P501",
+    "description": "Medical Gloves - Large",
+    "uom": "boxes",
+    "unitPrice": 32
+  },
+  {
+    "customerID": "6",
+    "skuCode": "SKU-P502",
+    "description": "Surgical Masks",
+    "uom": "boxes",
+    "unitPrice": 18
+  },
+  {
+    "customerID": "7",
+    "skuCode": "SKU-A601",
+    "description": "Premium Wheat Seeds",
+    "uom": "bags",
+    "unitPrice": 56
+  },
+  {
+    "customerID": "7",
+    "skuCode": "SKU-A602",
+    "description": "Organic Fertilizer",
+    "uom": "bags",
+    "unitPrice": 22
+  }
+]
